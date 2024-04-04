@@ -1,12 +1,15 @@
 header{
-    background-color: blueviolet;
+    background-color: rgb(66, 9, 119);
     text-align: center;
     padding: 20px;
     border-radius:15px;
 
 }
 body{
-    color: aqua;
+    color: rgb(19, 94, 94);
     background-image:url(https://wallpapercave.com/wp/wp8902961.jpg);
 
+}
+.imagem{
+    text-align:center;
 }
